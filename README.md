@@ -18,5 +18,9 @@ Otros satélites de Jupiter son: Titán, Amaltea y Lisitea.
 
 Jupiter es el quinto planeta desde del sol.
 
+Está compuesto por hidrógeno y Helio.
+
+Tiene una masa 318 veces mayor que la tierra.
+
 
 
