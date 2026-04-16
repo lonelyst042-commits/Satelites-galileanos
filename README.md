@@ -15,3 +15,8 @@ en una composición que compara sus tamaños con el tamaño de Júpiter.
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 Otros satélites de Jupiter son: Titán, Amaltea y Lisitea.
+
+Jupiter es el quinto planeta desde del sol.
+
+
+
